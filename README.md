@@ -1,5 +1,9 @@
-
 # User Story
+[github](https://github.com/diegorodd/module-1)
+[deployed link](https://diegorodd.github.io/module-1/)
+![screenshot](/module-1.png)
+
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
